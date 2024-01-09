@@ -1,0 +1,4 @@
+baseURL = 'https://edvard-fedorovic.github.io/'
+languageCode = 'en-us'
+title = 'Hello there'
+theme = "hello-friend"
